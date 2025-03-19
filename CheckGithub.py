@@ -1,3 +1,3 @@
 print('Hello Github')
 print('I want to download data+model and then code')
-print('Aong is usiong ')
+print('Aong is using ')
